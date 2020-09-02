@@ -19,23 +19,23 @@
 
 # CustomMath
 ----------
-[![Release](https://jitpack.io/v/com.github.dewaara:CustomMath:1.0/Repo.svg)]
-(https://jitpack.io/#com.github.dewaara:CustomMath:1.0/Repo)
+[![Release](https://jitpack.io/v/com.example/Repo.svg)]
+(https://jitpack.io/#com.github.dewaara:CustomMath:1.0)
 
 # Add it in your root build.gradle at the end of repositories:
 -----------------------------------------------
 
-allprojects {
-	repositories {
-		maven { url 'https://jitpack.io' }
-	}
-}
+allprojects {\
+	repositories {\
+		maven { url 'https://jitpack.io' }\
+	}\
+}\
 
 # Add the dependency
 --------------------
-dependencies {
-	implementation 'com.github.dewaara:CustomMath:1.0'
-}
+dependencies {\
+	implementation 'com.github.dewaara:CustomMath:1.0'\
+}\
 
 # Follw Me:-
 ----------
