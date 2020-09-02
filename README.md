@@ -19,8 +19,8 @@
 
 # CustomMath
 ----------
-[![Release](https://jitpack.io/v/com.example/Repo.svg)]
-(https://jitpack.io/#com.example/Repo)
+[![Release](https://jitpack.io/v/com.github.dewaara/CustomMath.svg)]
+(https://jitpack.io/#com.github.dewaara/CustomMath:1.0)
 
 # Add it in your root build.gradle at the end of repositories:
 -----------------------------------------------
@@ -52,7 +52,7 @@ dependencies {\
 ---------
 <img src="https://firebasestorage.googleapis.com/v0/b/seven-29b38.appspot.com/o/Quiz%202019%2FPicsArt_01-23-12.41.47.png?alt=media&token=83b3dd63-bd20-4a2a-babb-8e3ff674af11" width="100" height="70" />
 MIT License
-Copyright (c) 2020 Developer Md.Halim Powered by Dewaara Inc.
+Copyright (c) 2020 Developer Md.Halim Powered by Dewaara Inc.\
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
